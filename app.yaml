@@ -37,7 +37,6 @@ handlers:
 - url: /classes/.*
   script: classes/services.php
 
-
 - url: /services/.*
   script: services/getProviders.php
 
